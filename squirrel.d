@@ -1,7 +1,5 @@
 module squirrel;
 
-pragma(lib, "squirrel");
-
 /*
 Copyright (c) 2003-2011 Alberto Demichelis
 
