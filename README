@@ -1,0 +1,1 @@
+Currently it is just a binding to the C library, however a full D-style wrapper is planned.
