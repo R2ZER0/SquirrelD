@@ -1,1 +1,3 @@
-Currently it is just a binding to the C library, however a full D-style wrapper is planned.
+Currently it is just a binding to the C library.
+Very much alpha status.
+**NOTE This has not been tested in any way! Please let me know if it actually works, and improvements are very welcome. **
