@@ -225,7 +225,7 @@ extern (C) {
 		SQClass *pClass;
 		SQInstance *pInstance;
 		SQWeakRef *pWeakRef;
-		SQRawObjectVal raw;
+		SQRawObjectValue raw;
 	}
 
 
